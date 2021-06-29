@@ -16,6 +16,14 @@
     "typescript": "^4.3.4",
     "web-vitals": "^1.1.2"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Eingest/reacttest.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Eingest/reacttest/issues"
+  },
+  "homepage": "https://github.com/Eingest/reacttest#readme",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
